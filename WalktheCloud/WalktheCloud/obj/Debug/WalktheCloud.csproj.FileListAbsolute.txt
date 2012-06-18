@@ -1,0 +1,5 @@
+C:\Users\Vineet_Joshi\Favorites\Documents\GitHub\cloudwalker\WalktheCloud\WalktheCloud\bin\WalktheCloud.dll
+C:\Users\Vineet_Joshi\Favorites\Documents\GitHub\cloudwalker\WalktheCloud\WalktheCloud\bin\WalktheCloud.pdb
+C:\Users\Vineet_Joshi\Favorites\Documents\GitHub\cloudwalker\WalktheCloud\WalktheCloud\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vineet_Joshi\Favorites\Documents\GitHub\cloudwalker\WalktheCloud\WalktheCloud\obj\Debug\WalktheCloud.dll
+C:\Users\Vineet_Joshi\Favorites\Documents\GitHub\cloudwalker\WalktheCloud\WalktheCloud\obj\Debug\WalktheCloud.pdb
